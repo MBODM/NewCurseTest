@@ -7,7 +7,7 @@ Before i can implement all the new Curse handling stuff into those tools (for th
 
 Project parameters:
 - C# and .NET 7
-- WebView2 (from NuGet package)
+- WebView2 (as NuGet package)
 - WinForms (as UI tech for rapid development)
 - Developed with Visual Studio 2022 v17.5.4
 
